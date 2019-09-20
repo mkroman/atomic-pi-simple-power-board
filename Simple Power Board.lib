@@ -1,0 +1,56 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 5103308-6
+#
+DEF 5103308-6 J 0 40 Y Y 1 F N
+F0 "J" -200 730 50 H V L BNN
+F1 "5103308-6" -200 -801 50 H V L BNN
+F2 "TE_5103308-6" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "A33167-ND" 0 0 50 H I L BNN
+F5 "Compliant" 0 0 50 H I L BNN
+F6 "Connector" 0 0 50 H I L BNN
+F7 "2.54 mm[.1 in]" 0 0 50 H I L BNN
+F8 "TE Connectivity" 0 0 50 H I L BNN
+F9 "5103308-6" 0 0 50 H I L BNN
+F10 "None" 0 0 50 H I L BNN
+F11 "Header; Pin; Vertical; Copper Alloy; Thermoplastic; 26; 0.100 x 0.100 in.; 1 A" 850 -450 50 H I L BNN
+F12 "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/5103308-6/A33167-ND/1114905?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 900 -600 50 H I L BNN
+F13 "26" 0 0 50 H I L BNN
+F14 "https://www.te.com/usa-en/product-5103308-6.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" 950 -750 50 H I L BNN
+DRAW
+P 2 0 0 10 -200 -700 200 -700 N
+P 2 0 0 10 -200 700 -200 -700 N
+P 2 0 0 10 200 -700 200 700 N
+P 2 0 0 10 200 700 -200 700 N
+X 1 1 -400 600 200 R 40 40 0 0 P
+X 10 10 400 200 200 L 40 40 0 0 P
+X 11 11 -400 100 200 R 40 40 0 0 P
+X 12 12 400 100 200 L 40 40 0 0 P
+X 13 13 -400 0 200 R 40 40 0 0 P
+X 14 14 400 0 200 L 40 40 0 0 P
+X 15 15 -400 -100 200 R 40 40 0 0 P
+X 16 16 400 -100 200 L 40 40 0 0 P
+X 17 17 -400 -200 200 R 40 40 0 0 P
+X 18 18 400 -200 200 L 40 40 0 0 P
+X 19 19 -400 -300 200 R 40 40 0 0 P
+X 2 2 400 600 200 L 40 40 0 0 P
+X 20 20 400 -300 200 L 40 40 0 0 P
+X 21 21 -400 -400 200 R 40 40 0 0 P
+X 22 22 400 -400 200 L 40 40 0 0 P
+X 23 23 -400 -500 200 R 40 40 0 0 P
+X 24 24 400 -500 200 L 40 40 0 0 P
+X 25 25 -400 -600 200 R 40 40 0 0 P
+X 26 26 400 -600 200 L 40 40 0 0 P
+X 3 3 -400 500 200 R 40 40 0 0 P
+X 4 4 400 500 200 L 40 40 0 0 P
+X 5 5 -400 400 200 R 40 40 0 0 P
+X 6 6 400 400 200 L 40 40 0 0 P
+X 7 7 -400 300 200 R 40 40 0 0 P
+X 8 8 400 300 200 L 40 40 0 0 P
+X 9 9 -400 200 200 R 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
